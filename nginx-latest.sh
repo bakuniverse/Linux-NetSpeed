@@ -10,4 +10,3 @@ echo "deb-src http://nginx.org/packages/mainline/debian/ jessie nginx" | tee -a 
 
 #update to get the new repository
 sudo apt-get update
-sudo apt-get install nginx
